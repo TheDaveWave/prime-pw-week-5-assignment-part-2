@@ -1,5 +1,6 @@
 body {
     background-image: url("record.png");
+    background-repeat: round;
 }
 
 header {
